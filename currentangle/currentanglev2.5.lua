@@ -633,3 +633,5 @@ finished = true
 if usedefaultanims then
 task_spawn(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/somethingsimade/CurrentAngleV2/refs/heads/main/anims"))()
+end)
+end
